@@ -1,5 +1,5 @@
 const apiKey = 'ZHI2cEaLFtRFz77I8b0VqK1PW1lxWWSa';
-const baseURL = 'http://api.giphy.com/v1/gifs/';
+const baseURL = 'https://api.giphy.com/v1/gifs/';
 const num1 = document.querySelector('#num1');
 const num2 = document.querySelector('#num2');
 const num3 = document.querySelector('#num3');
